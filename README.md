@@ -1,11 +1,8 @@
-# Movie-Recommendation-System
-A simple Movie Recommendation System that suggests similar movies based on content similarity using Python and Streamlit.
-
 # 🎬 Movie Recommendation System
 
 ## 📌 Description
 
-A simple Movie Recommendation System that suggests similar movies based on content similarity using Machine Learning.
+A simple Movie Recommendation System that suggests similar movies based on content similarity using Machine Learning. Built using Python and Streamlit.
 
 ---
 
@@ -41,14 +38,26 @@ Movie-Recommendation-System/
 
 ---
 
-### ▶️ How to Run the Project
-*1️⃣ Clone the repository
-git clone https://github.com/your-username/Movie-Recommendation-System.git
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+
+```
+git clone https://github.com/Dipali0729/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
-*2️⃣ Install dependencies
+```
+
+### 2️⃣ Install dependencies
+
+```
 pip install -r requirements.txt
-*3️⃣ Run the application
+```
+
+### 3️⃣ Run the application
+
+```
 streamlit run app.py
+```
 
 ---
 
