@@ -41,19 +41,14 @@ Movie-Recommendation-System/
 
 ---
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Install dependencies
-
-```
+### ▶️ How to Run the Project
+*1️⃣ Clone the repository
+git clone https://github.com/your-username/Movie-Recommendation-System.git
+cd Movie-Recommendation-System
+*2️⃣ Install dependencies
 pip install -r requirements.txt
-```
-
-### 2️⃣ Run the app
-
-```
+*3️⃣ Run the application
 streamlit run app.py
-```
 
 ---
 
